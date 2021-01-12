@@ -1,0 +1,11 @@
+Product:
+    name
+    category
+    descrabition
+    img
+    price
+    cost
+    created
+
+
+# github
